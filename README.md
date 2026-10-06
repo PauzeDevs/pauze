@@ -1,4 +1,4 @@
-# Pauze
+# Pauze Landing
 
 A lightweight landing page for Pauze, focused on a clean, responsive presentation and a minimal user experience.
 
