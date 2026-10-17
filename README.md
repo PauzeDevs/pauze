@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=4C8DFF&center=true&vCenter=true&width=680&lines=Pauze+Landing" alt="Animated header: Pauze Landing">
 </p>
 
-
 A lightweight landing page for Pauze, focused on a clean, responsive presentation and a minimal user experience.
 
 ## Overview
